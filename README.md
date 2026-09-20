@@ -1,21 +1,31 @@
-# 👋 Hi, I'm Gökhan
+# Hi, I'm Gökhan YEŞİL 👋
 
-Builder. Problem Solver. Entrepreneur.
+Full Stack Engineer, Hardware Diagnostic Specialist, and Founder based in **Karşıyaka, İzmir**.
 
-I design and build software that automates real-world business operations.
+Bridging the gap between high-performance software architecture and precision electronics hardware since 1998.
 
-Currently working with:
+---
 
-• Go
-• Hono
-• HTMX
-• React
-• Flutter
-• SQLite
-• PostgreSQL
-• Sveltekit
-• Cloudflare
+### 🛠 Tech & Engineering Stack
 
-Outside of coding, I run a mobile phone repair & resale business with over 28 years of industry experience.
+* **Backend & Systems:** Go (Fiber), PostgreSQL, sqlc, WebSockets, SSH, Cloudflare Workers / D1 / R2
+* **Frontend & Mobile:** SvelteKit, Flutter, Tailwind CSS (v4+)
+* **Hardware & Electronics:** Logic board repair, BGA micro-soldering, chip-level diagnostics, BMS/EEPROM reprogramming (28+ years of field experience)
 
-📍 İzmir, Türkiye
+---
+
+### 🏢 Ventures & Operations
+
+* **[iphonetamir.com](https://iphonetamir.com)**  
+  Specialized Apple hardware diagnostics and chip-level motherboard repair laboratory serving İzmir (Karşıyaka, Bostanlı, Bayraklı, Çiğli) via dedicated courier logistics.
+
+* **[Hira İletişim](https://hirailetisim.com)**  
+  Mobile device logistics, certified pre-owned trade, and local technical retail operations founded in 1998.
+
+---
+
+### 📍 Verification & Presence
+
+* **Official Registry:** Electronics & Technical Service since June 22, 1998
+* **Location Hubs:** Karşıyaka & Çiğli, İzmir, TR
+* **Developer Ecosystem:** Google Developer Member since 2016
