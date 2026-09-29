@@ -1,8 +1,8 @@
 # Hi, I'm Gökhan YEŞİL 👋
 
-Full Stack Engineer, Hardware Diagnostic Specialist, and Founder based in **Karşıyaka, İzmir**.
+Full Stack Engineer, Hardware Diagnostic Specialist, and Founder based in İzmir, Türkiye.
 
-Bridging the gap between high-performance software architecture and precision electronics hardware since 1998.
+Bridging the gap between software engineering, mobile technology, and precision electronics since 1998.
 
 ---
 
@@ -10,22 +10,38 @@ Bridging the gap between high-performance software architecture and precision el
 
 * **Backend & Systems:** Go (Fiber), PostgreSQL, sqlc, WebSockets, SSH, Cloudflare Workers / D1 / R2
 * **Frontend & Mobile:** SvelteKit, Flutter, Tailwind CSS (v4+)
-* **Hardware & Electronics:** Logic board repair, BGA micro-soldering, chip-level diagnostics, BMS/EEPROM reprogramming (28+ years of field experience)
+* **Hardware & Electronics:** Logic board diagnostics, BGA micro-soldering, chip-level repair, BMS/EEPROM programming
 
 ---
 
 ### 🏢 Ventures & Operations
 
+* **[Yeşil Teknoloji](https://yesilteknoloji.com.tr)**  
+  Mobile device renewal center based in İzmir. Device acquisition, certified pre-owned sales, trade-in, technical service, courier pickup and nationwide shipping operations.
+
 * **[iphonetamir.com](https://iphonetamir.com)**  
-  Specialized Apple hardware diagnostics and chip-level motherboard repair laboratory serving İzmir (Karşıyaka, Bostanlı, Bayraklı, Çiğli) via dedicated courier logistics.
+  Specialized Apple hardware diagnostics and advanced repair operations, including board-level diagnostics and micro-soldering.
 
 * **[Hira İletişim](https://hirailetisim.com)**  
-  Mobile device logistics, certified pre-owned trade, and local technical retail operations founded in 1998.
+  Physical mobile technology retail and technical service operation in Çiğli, İzmir.
 
 ---
 
-### 📍 Verification & Presence
+### ♻️ Yeşil Teknoloji
 
-* **Official Registry:** Electronics & Technical Service since June 22, 1998
-* **Location Hubs:** Karşıyaka & Çiğli, İzmir, TR
+**Cep Telefonu Yenileme Merkezi**
+
+Extending the lifecycle of mobile devices through:
+
+`Buy` · `Sell` · `Trade-In` · `Repair` · `Renew`
+
+Combining technical expertise, device reuse, and software-driven operations under a single technology brand.
+
+---
+
+### 📍 Experience & Presence
+
+* **Industry Experience:** Since 1998
+* **Operations:** Karşıyaka & Çiğli, İzmir, Türkiye
+* **Service Model:** Local courier pickup + nationwide shipping
 * **Developer Ecosystem:** Google Developer Member since 2016
