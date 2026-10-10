@@ -19,7 +19,7 @@ Bridging the gap between software engineering, mobile technology, and precision 
 * **[Yeşil Teknoloji](https://yesilteknoloji.com.tr)**  
   Mobile device renewal center based in İzmir. Device acquisition, certified pre-owned sales, trade-in, technical service, courier pickup and nationwide shipping operations.
 
-* **[iphonetamir.com](https://iphonetamir.com)**  
+* **[iphoneizmir.com](https://iphoneizmir.com)**  
   Specialized Apple hardware diagnostics and advanced repair operations, including board-level diagnostics and micro-soldering.
 
 * **[Hira İletişim](https://hirailetisim.com)**  
