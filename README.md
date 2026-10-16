@@ -1,3 +1,4 @@
+[[https://zenodo.org/badge/DOI/10.5281/zenodo.23417269.svg]](https://doi.org/10.5281/zenodo.23417269)
 # Hi, I'm Gökhan YEŞİL 👋
 
 Full Stack Engineer, Hardware Diagnostic Specialist, and Founder based in İzmir, Türkiye.
