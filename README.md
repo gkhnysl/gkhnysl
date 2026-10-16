@@ -1,4 +1,4 @@
-[[https://zenodo.org/badge/DOI/10.5281/zenodo.23417269.svg]](https://doi.org/10.5281/zenodo.23417269)
+<a href="https://doi.org/10.5281/zenodo.23417269"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23417269.svg" alt="DOI"></a>
 # Hi, I'm Gökhan YEŞİL 👋
 
 Full Stack Engineer, Hardware Diagnostic Specialist, and Founder based in İzmir, Türkiye.
