@@ -34,7 +34,7 @@ Bridging software-driven local commerce, circular mobile device trade, and preci
   Unified commerce and technology ecosystem. Operating via our **Central Hardware Lab & Showroom in Çiğli** and our **Appointment-Based Intake Workshop in Karşıyaka Çarşı**.
 
 * **Unified Digital Portfolio (301 Consolidated):**
-  * `hirailetisim.com` *(Legacy Foundation — 1998–2024)*: The 25+ year trusted brand and original domain, fully unified under Yeşil Teknoloji.
+  * `hirailetisim.com` *(Legacy Foundation — 1998–2026)*: The 25+ year trusted brand and original domain, fully unified under Yeşil Teknoloji.
   * `iphoneizmir.com` & `iphonetamir.com`: Specialized Apple hardware valuation and diagnostic portals, now integrated directly into [yesilteknoloji.com.tr/karsiyaka](https://yesilteknoloji.com.tr/karsiyaka).
 
 ---
