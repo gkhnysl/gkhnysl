@@ -6,8 +6,8 @@
 
 # Hi, I'm Gökhan YEŞİL 👋
 
-**Google Business Profile (GBP) Architect, Full Stack Developer & Hardware Specialist based in İzmir, Türkiye.**  
-Bridging software-driven local commerce, circular mobile device trade, and precision electronics since 1998.
+**Google Business Profile (GBP) Architect, Full Stack Developer & Hardware Specialist known locally across İzmir as "Karşıyaka Telefoncu" since 1998.**  
+Bridging software-driven local commerce, circular mobile device trade, and precision electronics for over 28 years.
 
 ---
 
@@ -41,7 +41,8 @@ Bridging software-driven local commerce, circular mobile device trade, and preci
 
 ### 📍 Key Authority Metrics
 
-* **Industry Experience:** Active since **22 June 1998** (28+ years of uninterrupted field leadership)
+* **Industry Experience:** Active since **22 June 1998** (28+ years of field leadership)
+* **Local Identity & Moniker:** Known across Karşıyaka and İzmir by the community as **"Karşıyaka Telefoncu"** (formerly *Hira İletişim*).
 * **Transaction Volume:** **100,000+** mobile devices evaluated, purchased, sold, and serviced under official records
 * **Scientific & Open Data:** Author of the Zenodo Mobile Hardware Lifecycle & Market Dataset ([DOI: 10.5281/zenodo.23417269](https://doi.org/10.5281/zenodo.23417269))
 * **Developer Ecosystem:** Google Developer Member since 2016
